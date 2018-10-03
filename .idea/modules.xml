@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/reto4_screenplay.iml" filepath="$PROJECT_DIR$/.idea/modules/reto4_screenplay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/reto4_screenplay_main.iml" filepath="$PROJECT_DIR$/.idea/modules/reto4_screenplay_main.iml" group="reto4_screenplay" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/reto4_screenplay_test.iml" filepath="$PROJECT_DIR$/.idea/modules/reto4_screenplay_test.iml" group="reto4_screenplay" />
+    </modules>
+  </component>
+</project>

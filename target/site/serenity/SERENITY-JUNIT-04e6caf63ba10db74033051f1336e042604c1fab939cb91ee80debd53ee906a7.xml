@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Reto4Screenplay" skipped="0" tests="1" time="42.43" timestamp="2018-10-02 04:42:25"><testcase name="Report activities on maxtime"><failure message="The following error occurred: Expected enabled element was not enabled" type="net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException">The following error occurred: Expected enabled element was not enabled</failure><system-err>The following error occurred: Expected enabled element was not enabled&#13;
+co.com.choucairtesting.certification.reto4screenplay.task.Report.performAs(Report.java:42)&#13;
+co.com.choucairtesting.certificacion.reto4screenplay.stepdefinitions.Reto4ScreenPlayStepDefinitions.santiago_wants_to_perform_the_report_of_his_activies_of_Maxtime(Reto4ScreenPlayStepDefinitions.java:23)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>
